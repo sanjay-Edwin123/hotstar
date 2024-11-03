@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">Sanjay Edwin Tech</div>
+            <div class="logo">Sanjay Edwin Hacker</div>
             <ul class="nav-links">
                 <li><a href="#services">Services</a></li>
                 <li><a href="#about">About</a></li>
